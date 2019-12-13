@@ -18,9 +18,9 @@
 
 <h2>TRABAJOS: <u>-EN EL LABORATORIO-</u></h2>
 <p/>
-<ul>PROBAR HTML:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G4420TMRC2">
+<ul><li>PROBAR HTML:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G4420TMRC2">
 <p/>
-<ul>HOST UNA PÁGINA HTML:<strong><a href="https://getsemani-gonzalez.github.io/About-Getsy/">
+<ul><li>HOST UNA PÁGINA HTML:<strong><a href="https://getsemani-gonzalez.github.io/About-Getsy/">
 <p/>
 <ul><li>ENUNCIADOS:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8A76VU5A5XO">
 <p/>
