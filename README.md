@@ -18,8 +18,8 @@
 
 <h2>TRABAJOS: <u>-EN EL LABORATORIO-</u></h2>
 <p/>
-<ul><li>PROBAR HTML:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G4420TMRC2">
-<ul><li>HOST UNA PÁGINA HTML:<strong><a href="https://getsemani-gonzalez.github.io/About-Getsy/">
+<ul>PROBAR HTML:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G4420TMRC2">
+<ul>HOST UNA PÁGINA HTML:<strong><a href="https://getsemani-gonzalez.github.io/About-Getsy/">
 <ul><li>ENUNCIADOS:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8A76VU5A5XO">
 <ul><li>ENLACES:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G3DWMU6DNM">
 <ul><li>LISTA:<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8GBOTEWV05S">
