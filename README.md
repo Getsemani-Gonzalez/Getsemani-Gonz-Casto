@@ -39,5 +39,5 @@
 <p/>
 <ul><li>MEJORE SU PÁGINA PERSONAL<strong><a href="https://getsemani-gonzalez.github.io/Geo-Locations/">
 <p/>
-<ul><li>USO DE ANIMACIONES EN CSS Y HTML 5<strong><a href="https://getsemani-gonzalez.github.io/Getsemani-GGC/">
+<ul><li>USO DE ANIMACIONES EN CSS Y HTML 5<strong><a  href ="https://getsemani-gonzalez.github.io/Getsemani-GGC/"> 
  <p/>
