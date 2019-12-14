@@ -32,5 +32,5 @@
 
 <h2>TRABAJOS: <u>-En laboratorio-</u></h2>
 <p/>
-<ul><li>Probar html<strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G4420TMRC2">Probar html</a></li></ul>
-<ul><li>Host una pàgina html<strong><a href"https://getsemani-gonzalez.github.io/About-Getsy/">Host una pàgina html</a></li></ul>
+<ul><li><strong><a href="https://www.w3schools.com/code/tryit.asp?filename=G8G4420TMRC2">Probar html</a></li></ul>
+<ul><li><strong><a href"https://getsemani-gonzalez.github.io/About-Getsy/">Host una pàgina html</a></li></ul>
